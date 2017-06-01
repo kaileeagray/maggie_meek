@@ -9,7 +9,8 @@ body {
   width: 100%;
 }
 body {
-    font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;}
+  font-family: 'Spinnaker', sans-serif;
+  }
 hr {
   border-color: #4C315C;
   border-width: 3px;
@@ -34,26 +35,26 @@ h3,
 h4,
 h5,
 h6 {
-font-family: 'Barrio', cursive;
+font-family: 'Fredericka the Great', cursive;
 }
 h1, h2.section-heading {
   color: rgb(18, 22, 38);
 }
 p {
-  font-size: 16px;
+  font-size: 25px;
   line-height: 1.5;
   margin-bottom: 20px;
 }
 .bg-primary {
-/*  background-color: #4C315C;
-*/
-  position: relative;
+  background-color: #877ABF;
+
+/*  position: relative;
 
   background-position: center;
   background-image: url('../img/header-2.png');
   background-repeat: repeat;
   text-align: center;
-  color: white;
+  color: white;*/
 }
 .bg-dark {
   background-color: #222222;
@@ -74,14 +75,14 @@ aside {
 .navbar-default {
   background-color: white;
   border-color: rgba(34, 34, 34, 0.05);
-  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'Spinnaker', sans-serif;
   -webkit-transition: all 0.35s;
   -moz-transition: all 0.35s;
   transition: all 0.35s;
 }
 .navbar-default .navbar-header .navbar-brand {
   color: #4C315C;
-  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+font-family: 'Spinnaker', sans-serif;
   font-weight: 700;
   text-transform: uppercase;
 }
@@ -186,7 +187,7 @@ header .header-content .header-content-inner p {
   color: white;
   font-size: 45px;
   margin-bottom: 20px;
-  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+font-family: 'Spinnaker', sans-serif;
   text-transform: uppercase;
 }
 @media (min-width: 768px) {
@@ -261,7 +262,7 @@ header .header-content .header-content-inner p {
 }
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category,
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name {
-  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+font-family: 'Spinnaker', sans-serif;
   padding: 0 15px;
 }
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category {
@@ -393,7 +394,7 @@ fieldset[disabled] .btn-primary.active {
   background-color: white;
 }
 .btn {
-  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+font-family: 'Spinnaker', sans-serif;
   border: none;
   border-radius: 300px;
   font-weight: 700;
