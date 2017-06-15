@@ -35,7 +35,7 @@ h3,
 h4,
 h5,
 h6 {
-font-family: 'Fredericka the Great', cursive;
+  font-family: 'Cabin Sketch', cursive;
 }
 h1, h2.section-heading {
   color: rgb(18, 22, 38);
@@ -51,7 +51,7 @@ p {
 /*  position: relative;
 
   background-position: center;
-  background-image: url('../img/header-2.png');
+  background-image: url('../img/header.png');
   background-repeat: repeat;
   text-align: center;
   color: white;*/
@@ -161,7 +161,7 @@ header {
   position: relative;
 
   background-position: center;
-  background-image: url('../img/header-2.png');
+  background-image: url('../img/header.png');
   background-repeat: repeat;
   text-align: center;
   color: white;
